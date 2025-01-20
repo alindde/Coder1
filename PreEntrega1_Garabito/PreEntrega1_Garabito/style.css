@@ -1,0 +1,136 @@
+/*restet */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: 0;
+}
+
+/* Generales */
+
+footer {
+    background-color: rgb(65, 9, 162);
+    text-align: center;
+    padding: 60px;
+    color: #f1f1f1;
+}
+
+footer a {
+    color: #f1f1f1;
+}
+
+nav ul li a {
+    text-decoration: none;
+    text-decoration-line: none;
+    color: #f1f1f1;
+
+}
+
+nav {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-size: 14px;
+}
+
+
+body {
+    background-color: #393939;
+    font-family: "Manrope", sans-serif;
+}
+
+ol {
+    text-decoration: underline;
+    margin text-align: center;
+    color: #f1f1f1;
+}
+
+/* Index */
+p {
+    font-family: "Manrope", sans-serif;
+    text-align: center;
+    font-weight: 300;
+    font-size: 18px;
+    margin: 8px;
+    margin-bottom: 20px;
+    color: #f1f1f1;
+}
+
+h2 {
+    font-family: "Manrope", sans-serif;
+    font-size: 200px;
+    font-weight: 100;
+    text-align: center;
+    margin-top: 20px;
+    color: rgba(228, 228, 228, 0.1);
+}
+
+p span {
+    color: rgb(241, 140, 57);
+    font-weight: bold;
+}
+
+h1 {
+    font-family: "Manrope", sans-serif;
+    font-size: 0px;
+    font-weight: 100;
+    text-align: center;
+    color: rgba(0, 0, 0, 0);
+}
+
+button {
+    background-color: rgb(241, 140, 57);
+    color: #f1f1f1;
+}
+
+/* Home-Work */
+
+h3 {
+    font-family: "Manrope", sans-serif;
+    text-align: center;
+    font-size: 36px;
+    font-weight: bold;
+    margin-top: 20px;
+    color: #f1f1f1;
+}
+
+h5 {
+    font-family: "Manrope", sans-serif;
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 20px;
+    color: #f1f1f1;
+}
+
+
+/* Proyecto_1 */
+.seccion {
+    background-color: #f1f1f1;
+    color: #393939;
+    margin-top: 20px;
+    padding-top: 20px;
+    padding-bottom: 40px;
+}
+
+.proyectp-1 {
+    background-color: #f1f1f1;
+}
+
+h4 {
+    font-family: "Manrope", sans-serif;
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 20px;
+    margin-bottom: 0;
+    color: #f1f1f1;
+}
+
+/* about */
+
+section ul li {
+    color: #f1f1f1;
+}
+
+.aboutme {
+    text-align: left;
+}
